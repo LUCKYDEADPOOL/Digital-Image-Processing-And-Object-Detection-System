@@ -47,7 +47,6 @@ The main application uses a dual-canvas workflow: the original image is shown on
 |-- OPENCV.py             # Main desktop application
 |-- yolov8n.pt            # YOLOv8 Nano model weights
 |-- requirements.txt      # Python dependencies
-|-- files/                # Beginner OpenCV practice scripts
 |-- Photos/               # Sample images and reference material
 |-- Videos/               # Sample video media
 ```
