@@ -50,9 +50,6 @@ The main application uses a dual-canvas workflow: the original image is shown on
 |-- files/                # Beginner OpenCV practice scripts
 |-- Photos/               # Sample images and reference material
 |-- Videos/               # Sample video media
-|-- best2.py              # Earlier application version
-|-- OPENCV_02.py          # Earlier application version
-`-- ...                   # Additional image-processing experiments
 ```
 
 ## Installation
