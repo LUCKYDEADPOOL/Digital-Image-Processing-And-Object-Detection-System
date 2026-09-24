@@ -1,0 +1,29 @@
+# Python cache and tooling
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+.env
+.pytest_cache/
+.mypy_cache/
+.vscode/
+
+# Build and coverage output
+build/
+dist/
+*.egg-info/
+.coverage
+htmlcov/
+
+# Generated application output
+outputs/
+output/
+results/
+*.log
+
+# Local notebook and OS files
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
