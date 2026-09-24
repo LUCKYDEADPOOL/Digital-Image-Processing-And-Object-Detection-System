@@ -44,14 +44,14 @@ The main application uses a dual-canvas workflow: the original image is shown on
 
 ```text
 .
-|-- OPENCV_Final.py       # Main desktop application
+|-- OPENCV.py             # Main desktop application
 |-- yolov8n.pt            # YOLOv8 Nano model weights
 |-- requirements.txt      # Python dependencies
 |-- files/                # Beginner OpenCV practice scripts
 |-- Photos/               # Sample images and reference material
 |-- Videos/               # Sample video media
 |-- best2.py              # Earlier application version
-|-- OPENCV_02.py         # Earlier application version
+|-- OPENCV_02.py          # Earlier application version
 `-- ...                   # Additional image-processing experiments
 ```
 
