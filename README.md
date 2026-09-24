@@ -104,16 +104,8 @@ The application expects `yolov8n.pt` in the project root. Ultralytics may downlo
 
 Operations modify the current output image. Use **File > Reset** to clear the canvases and begin again.
 
-## Internship Outcome
-
-This project combined classical digital image processing with deep-learning-based object detection in one interactive tool. It provided practical experience with GUI development, image representation, filtering, morphology, denoising, segmentation, visualization, and YOLOv8 inference.
-
 ## Notes
 
 - The current threshold menu item implements fixed binary thresholding at intensity `127`.
 - YOLOv8 inference is most useful on images containing objects from the model's training classes.
 - Large media files and model weights can increase repository size. Git LFS may be useful if the repository grows significantly.
-
-## License
-
-No license has been selected for this project yet. Add a license before presenting the repository as reusable open-source software.
