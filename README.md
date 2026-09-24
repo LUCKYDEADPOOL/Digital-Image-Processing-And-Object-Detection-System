@@ -90,7 +90,7 @@ Tkinter is included with most standard Python installations on Windows. If Pytho
 From the repository root, run:
 
 ```bash
-python OPENCV_Final.py
+python OPENCV.py
 ```
 
 The application expects `yolov8n.pt` in the project root. Ultralytics may download the model automatically if it is not present, depending on the local installation and network access.
